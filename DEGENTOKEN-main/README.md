@@ -24,8 +24,8 @@ DegenToken is an ERC20 token designed for the Degen Gaming platform on the Avala
 5. Players can burn their tokens using the burn function when they are no longer needed.
 
 ## Authors
-vaibhav chhillar 
-vaicozchhillar@gmail.com
+Yatharth Sharma
+Email- yatharths10192@gmail.com
 
 ## License
 
